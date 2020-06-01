@@ -1,6 +1,6 @@
 {
   "name": "jenkins-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "github commit trigger jenkins CI/CD to my site",
   "main": "index.js",
   "scripts": {
